@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { useEffect } from 'react';
 import Lenis from 'lenis';
 import { PortfolioProvider } from './context/PortfolioContext';
